@@ -5,7 +5,7 @@ This lab guides you through creating a Firestore database, generating test data,
 
 **Lab Link:**  
 
-(https://www.cloudskillsboost.google/games/6415/labs/40385)
+[https://www.cloudskillsboost.google/games/6415/labs/40385]
 ---
 
 ## Steps to Complete the Lab Run the following code
