@@ -49,7 +49,7 @@ Support & Subscription
 
 If you found this lab useful, please subscribe to CloudCupcake for more Google Cloud tutorials and labs!
 
-Disclaimer
+# Disclaimer
 
 This lab is intended for educational purposes only. Always ensure you follow your organization's security policies and guidelines when working with cloud resources and data.
 
