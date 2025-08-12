@@ -11,8 +11,7 @@ https://www.cloudskillsboost.google/games/6415/labs/40386
 
 ```bash
 
-curl -LO https://raw.githubusercontent.com/ChanduCharanSample/The-Skills-Boost-Arcade-Future-Ready-Skills---2025/main/Launch%20and%20Deploy/APIs%20Explorer%3A%20Cloud%20SQL/cloudcupcake.sh && chmod +x cloudcupcake.sh
-&& ./cloudcupcake.sh
+curl -LO https://raw.githubusercontent.com/ChanduCharanSample/The-Skills-Boost-Arcade-Future-Ready-Skills---2025/main/Launch%20and%20Deploy/APIs%20Explorer%3A%20Cloud%20SQL/cloudcupcake.sh && chmod +x cloudcupcake.sh && ./cloudcupcake.sh
 
 
 ```
