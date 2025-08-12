@@ -14,9 +14,9 @@ RESET=$(tput sgr0)
 
 echo
 echo "${YELLOW}${BOLD}############################################${RESET}"
-echo "${YELLOW}${BOLD}#     				   	                          #${RESET}"
+echo "${YELLOW}${BOLD}#     				   	                  #${RESET}"
 echo "${YELLOW}${BOLD}#	  📢 SUBSCRIBE TO CLOUDCUPCAAKE-1217 📢  #${RESET}"
-echo "${YELLOW}${BOLD}#     				   	                          #${RESET}"
+echo "${YELLOW}${BOLD}#     				   	                  #${RESET}"
 echo "${YELLOW}${BOLD}############################################${RESET}"
 echo
 
